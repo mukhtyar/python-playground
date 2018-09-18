@@ -3,6 +3,8 @@
 *.bak
 *~
 env
+data
+image
 .doctrees
 doctrees
 
