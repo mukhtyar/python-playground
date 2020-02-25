@@ -1,7 +1,2 @@
-GDAL
-jupyter
-matplotlib
-numpy
-pandas
-rasterio
-requests
+altair
+tasmax_day_ens32max_rcp85
